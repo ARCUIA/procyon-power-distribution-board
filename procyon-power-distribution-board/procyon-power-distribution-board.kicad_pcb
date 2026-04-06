@@ -12478,7 +12478,7 @@
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "47a57acf-1a19-4bd8-bf57-30bb0ef7bc7b")
+			(uuid "3907ff1b-0ef7-4073-b5e7-0d4406a9cc20")
 		)
 		(fp_line
 			(start -15.312291 13)
@@ -12488,7 +12488,7 @@
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "47ecbd1b-7fcf-4127-9d05-926426245f2e")
+			(uuid "d6edd125-dcd5-4d8b-bee5-240933ab669f")
 		)
 		(fp_line
 			(start -15 -13.080046)
@@ -12498,7 +12498,7 @@
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "c77f930c-983e-4dc8-a745-635bc1a844bf")
+			(uuid "5da61c29-233f-4ca9-a343-f76061859d0e")
 		)
 		(fp_line
 			(start -14.5 13)
@@ -12508,7 +12508,7 @@
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "f0477312-fc61-42e5-8c91-e29a2c711747")
+			(uuid "96c4c7ba-ed56-466a-bffe-af3ce3c344fc")
 		)
 		(fp_line
 			(start 14.687709 -12.5)
@@ -12518,7 +12518,7 @@
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "43450375-c96b-4ffd-9b52-778a6527597f")
+			(uuid "f488bfaf-4382-4f65-81bf-e535285d6d03")
 		)
 		(fp_line
 			(start 14.687709 11.539977)
@@ -12528,7 +12528,7 @@
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "3a228393-b444-43a2-b411-645348f97d9b")
+			(uuid "a86a41c9-7332-41c3-9b3f-e4f9dbedf2dd")
 		)
 		(fp_line
 			(start 14.687709 12.919954)
@@ -12538,7 +12538,7 @@
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "b357c42f-7313-4e20-a956-c70b1ea52cd2")
+			(uuid "aa131e87-6258-44cd-ae08-ca416917fcd1")
 		)
 		(fp_line
 			(start 14.75 -13.080046)
@@ -12548,7 +12548,7 @@
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "49b0e629-af9d-423b-bed8-80c38968ea05")
+			(uuid "335af4d5-df29-4db7-a5fe-4bf9b7aabc3c")
 		)
 		(fp_rect
 			(start -17.78 -13.716)
@@ -12559,7 +12559,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "77b5a567-ef22-4f1d-8a40-5b5a19c87b18")
+			(uuid "094b2255-f639-49e6-8858-8db9e67700bc")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 -6.604 0)
@@ -12644,6 +12644,17 @@
 			(uuid "ca49b40f-d2af-4f6a-83ad-9df2472532d6")
 		)
 		(embedded_fonts no)
+		(model "${CUSTOM_3D_MODELS}/CK2416.step"
+			(offset
+				(xyz -9.75 -9.5 6.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "Connector_JST:JST_XH_S2B-XH-A-1_1x02_P2.50mm_Horizontal"
 		(layer "F.Cu")
